@@ -16,7 +16,7 @@
   <a href="https://github.com/">
     <img
       alt="Stargazers"
-      src="https://img.shields.io/github/last-commit/Open-Community-of-Developers/.github?color=19bcb4&logoColor=b6beca&style=for-the-badge"
+      src="https://img.shields.io/github/last-commit/Open-Community-of-Developers/.github?color=19bcb4&logoColor=1a1e24&style=for-the-badge"
     >
   </a>
 <!--   <a href="#">
