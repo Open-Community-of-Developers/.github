@@ -9,3 +9,5 @@
     Details
   </a>
 </h6>
+
+<p align="center"> Open Community of Developers (OCD) - a free and open-source club focused on promoting FOSS and creating innovative projects that make a positive impact on society. Collaborate with like-minded individuals, explore the latest developments in software development, and become part of a vibrant community of developers. Let's create a better world together through FOSS!</p>
