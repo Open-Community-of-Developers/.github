@@ -13,22 +13,22 @@
 <p align="center"> Open Community of Developers (OCD) - a free and open-source club focused on promoting FOSS and creating innovative projects that make a positive impact on society. Collaborate with like-minded individuals, explore the latest developments in software development, and become part of a vibrant community of developers. Let's create a better world together through FOSS!</p>
 
 <p align="center">
-  <a href="https://github.com/decaycs/decaycs/stargazers">
+  <a href="https://github.com/">
     <img
       alt="Stargazers"
-      src="https://img.shields.io/github/stars/decaycs/decaycs?style=for-the-badge&logo=starship&color=78dba9&logoColor=b6beca&labelColor=1a1e24"
+      src="https://img.shields.io/github/last-commit/Open-Community-of-Developers/.github?color=19bcb4&logoColor=b6beca&style=for-the-badge"
     >
   </a>
-  <a href="https://github.com/decaycs/decaycs/issues">
+<!--   <a href="#">
     <img
       alt="Issues"
-      src="https://img.shields.io/github/issues/decaycs/decaycs?style=for-the-badge&logo=gitbook&color=70a5eb&logoColor=b6beca&labelColor=1a1e24"
+      src="https://img.shields.io/github/issues/Open-Community-of-Developers/#?style=for-the-badge&logo=gitbook&color=70a5eb&logoColor=b6beca&labelColor=1a1e24"
     >
-  </a>
-  <a href="https://discord.gg/HaqkpE7B3B">
+  </a> -->
+  <a href="https://discord.gg/3N3urAvx3t">
     <img
       alt="Discord"
-      src="https://img.shields.io/discord/1084115052149362688?color=%2300fff3&style=for-the-badge"
+      src="https://img.shields.io/discord/1084115052149362688?style=for-the-badge&logo=discord&color=00fff3&logoColor=b6beca&labelColor=1a1e24"
     >
   </a>
 </p>
